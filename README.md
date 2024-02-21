@@ -23,7 +23,7 @@ To get started with Bash scripting and explore the scripts in this repository, f
 3. Explore the Bash scripting files available in the repository.
 
 4. Run the scripts using the following command:
-    ./<scriptName>.sh
-
+  -./script_name.sh
+  - Replace `script_name.sh` with the name of the script you want to run.
 
 
