@@ -17,7 +17,7 @@ This repository contains various Bash scripting files that I have created while 
 To get started with Bash scripting and explore the scripts in this repository, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-   git clone https://github.com/your-username/bash-scripting-learning.git
+  - git clone https://github.com/your-username/bash-scripting-learning.git
 2. Navigate to the repository directory:
 
 3. Explore the Bash scripting files available in the repository.
